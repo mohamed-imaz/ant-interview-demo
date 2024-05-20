@@ -19,4 +19,4 @@ spec:
     spec:
       containers:
       - name: my-app-container
-        image:533267424796.dkr.ecr.ap-southeast-1.amazonaws.com/demo:p2
+        image:533267424796.dkr.ecr.ap-southeast-1.amazonaws.com/demo:p3
